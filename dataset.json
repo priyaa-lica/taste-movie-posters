@@ -1,0 +1,15 @@
+{
+  "id": 2,
+  "name": "movie posters",
+  "description": null,
+  "keywords": [],
+  "notes": null,
+  "imageUrls": [
+    "/api/storage/objects/uploads/be22d781-8ca8-4690-83aa-41424e1d1ac6",
+    "/api/storage/objects/uploads/1265535d-8e7c-4543-ba55-2d3aeacf7aff"
+  ],
+  "references": [],
+  "imageCount": 2,
+  "createdAt": "2026-04-05T05:17:37.008Z",
+  "updatedAt": "2026-04-05T05:17:57.015Z"
+}
